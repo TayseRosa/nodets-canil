@@ -10,7 +10,7 @@
 
 # Demo
 <p align="center">
-<img src="./readme.gif" align="center" />
+<img src="./src/images/../../public/images/readme.gif" align="center" />
 </p>
 
 ---
