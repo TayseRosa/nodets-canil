@@ -1,4 +1,4 @@
-<h1 align="center"> Node TS - Canil2</h1>
+<h1 align="center"> Node TS - Canil</h1>
 
 #Índice
 - [Demo](#demo)
