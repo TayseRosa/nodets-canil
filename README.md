@@ -54,7 +54,10 @@ No terminal:
     //Entrar no diretório
     $ cd nodets-canil
 
-    //Instalar bilbiotecas
+    //Pré-requisitos globais
+    $ npm i -g nodemon typescript ts-node
+
+    //Instalação
     $ npm install
 
     //Startar o projeto
