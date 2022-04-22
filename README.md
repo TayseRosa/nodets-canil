@@ -16,7 +16,9 @@
 ---
 # 🛠 Sobre o projeto
 <p>
-Projeto feito no curso Node + Typescript</p>
+Projeto feito no curso Node JS + Typescript</p>
+
+<p> Abaixo algumas anotações para iniciar meu projeto:</p>
 
 No terminal:
 ```js
