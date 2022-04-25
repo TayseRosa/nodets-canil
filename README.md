@@ -47,7 +47,9 @@ No terminal:
 # 🚀 Tecnologias utilizadas neste projeto
 
 - [x] JAVASCRIPT
-- [x] TYPESCRIOPT
+- [x] TYPESCRIPT
+- [x] MVC
+- [x] MUSTACHE
 
 # 📥 Como usar
 ```js
