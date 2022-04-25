@@ -49,7 +49,7 @@ No terminal:
 - [x] JAVASCRIPT
 - [x] TYPESCRIPT
 - [x] MVC
-- [x] MUSTACHE
+- [x] MUSTACHE (template engine)
 
 # 📥 Como usar
 ```js
